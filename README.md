@@ -39,7 +39,7 @@ Scripts and Guides to make deploying Packstack Easier
         
         
         
-   # Now deactivate Network Manager and Start Network Instead
+   Now deactivate Network Manager and Start Network Instead
    
         $ systemctl disable NetworkManager
         $ systemctl stop NetworkManager
@@ -47,3 +47,8 @@ Scripts and Guides to make deploying Packstack Easier
         $ systemctl start network
         
         
+  # install packstsack files
+  # Create Answer File
+  
+  
+  
